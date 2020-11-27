@@ -5,7 +5,7 @@ Script logs in to profi.ru account using selenium, gets all page requests and ch
 When key word is foind - emails is sent.
 It should run constuntly to update info every minute and send new emails to you.
 
-Основная цель скрипта - сокращение времение на постоянное обновление профи.ру с целью найти интересный заказ.
+Основная цель скрипта - сокращение времени на постоянное обновление профи.ру с целью найти интересный заказ.
 
 Скрипт логинится в ваш аккаунт используя модуль selenuim, считывает страницу и ищет среди заказов нужные ключевые слова
 Когда ключевое слово найдено - отправляется письмо.
